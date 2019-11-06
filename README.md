@@ -17,7 +17,7 @@ $ lein repl
 user=> (require 'clojure-getting-started.web)
 user=>(def server (clojure-getting-started.web/-main))
 ```
-
+ 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying to Heroku
